@@ -1,30 +1,32 @@
 # tp1aula10
-# que son las ceremonias ? 
-...aqui agregar info de ceremonia...
-
-# cuales son las ceremonias?
+# sprint1
+que son las ceremonias ? 
+**las ceremonias de scrum son ensenciales , son practicas que definen a la metodologia scrum , sin ellas el equipo no podria agilizarse de ninguna manera, estas ceremonias facilitan los metodos de comunicacion, algo que beneficia a cualquier proyecto.
+las ceremonias fueron creadas para dar resultados y hay un momento adecuado para realizar cada una **
+# sprint2
+cuales son las ceremonias?
 ...agregar info...
-
-# describa ceremonia 1
+# sprint 3
+describa ceremonia 1
 ...descripcion...
-
-# describa ceremonia 2
+# sprint 4
+describa ceremonia 2
 ...descripcion...
-
-# describa ceremonia 3
+# sprint 5
+describa ceremonia 3
 ...descripcion...
-
-# describa ceremonia 4
+# sprint 6
+describa ceremonia 4
 ...descripcion
-
-# que son los artefactos? 
+# sprint 7
+que son los artefactos? 
 ...agregar info...
-
-# cuales son los artefactos?
+# sprint 8
+cuales son los artefactos?
 ...aqui agregar info de artefactos...
-
-# cuales son sus funciones?
+# sprint 9
+cuales son sus funciones?
 ...agregar info...
-
-# concepto de roles
+# sprint 10
+concepto de roles
 ...aqui agregar info de roles
