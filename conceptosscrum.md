@@ -14,6 +14,15 @@ describa ceremonia 2
 ...descripcion...
 # sprint 5
 describa ceremonia 3
+
+#Ceremonias 
+Las ceremonias de la metodología Scrum son elementos importantes del proceso de desarrollo de software de Agile. No son reuniones sólo por el hecho de reunirse. Más bien, estas ceremonias de Scrum proporcionan el marco para que los equipos realicen el trabajo de manera estructurada, ayuden a establecer expectativas, capaciten al equipo para colaborar de manera efectiva y, en última instancia, alcancen los resultados. Sin embargo, si no se administran de manera adecuada, pueden abrumar el calendario y bajar un poco el valor que deben proporcionar.
+ - se realizan a lo largo del proyecto, ellas son:
+● Sprint Planning Meeting
+● Daily Scrum Meeting
+● Sprint Review Meeting
+● Sprint Retrospective Meeting
+
 ...descripcion...
 # sprint 6
 describa ceremonia 4
