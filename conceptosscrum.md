@@ -10,7 +10,7 @@ cuales son las ceremonias?
 
 Sprint Planning Meeting (reunión de planificación del sprint).
 
-Se produ al iniciar cada sprint y tiene por  objetivo decidir que se va a realizar en el sprint. 
+Se produce al iniciar cada sprint y tiene por  objetivo decidir que se va a realizar en el sprint. 
 
 # sprint 4
 describa ceremonia 2
