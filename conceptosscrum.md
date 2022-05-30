@@ -28,6 +28,12 @@ Product Owner.
 ...descripcion...
 # sprint 6
 describa ceremonia 4
+
+#Sprint Retrospective Meeting (reunión de retrospectiva del Sprint). Se produce también al
+finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado
+en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que
+debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
+
 ...descripcion
 # sprint 7
 que son los artefactos? 
