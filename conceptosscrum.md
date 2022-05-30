@@ -34,7 +34,13 @@ que son los artefactos?
 ...agregar info...
 # sprint 8
 cuales son los artefactos?
-...aqui agregar info de artefactos...
+##Product Backlog 
+Es una lista emergente y ordenada de todo lo que se conoce que es necesario que un producto o servicio cumpla.
+##Sprint Backlog 
+Es la suma de el Objetivo del Sprint, los elementos del Product Backlog elegidos para el Sprint, más un plan de acción de cómo crear el incremento del producto
+##Increment
+Es la suma de todos los ítems  Product Backlog  completados durante un sprint  y el valor de los incrementos de todos los Sprints pasados.
+
 # sprint 9
 cuales son sus funciones?
 ...agregar info...
