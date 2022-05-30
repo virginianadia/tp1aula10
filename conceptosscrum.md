@@ -4,8 +4,12 @@ que son las ceremonias ?
 **las ceremonias de scrum son ensenciales , son practicas que definen a la metodologia scrum , sin ellas el equipo no podria agilizarse de ninguna manera, estas ceremonias facilitan los metodos de comunicacion, algo que beneficia a cualquier proyecto.
 las ceremonias fueron creadas para dar resultados y hay un momento adecuado para realizar cada una **
 # sprint2
-cuales son las ceremonias?
-...agregar info...
+Estas son las ceremonias:
+● **Sprint Planning Meeting**
+● **Daily Scrum Meeting**
+● **Sprint Review Meeting**
+● **Sprint Retrospective Meeting**
+
 # sprint 3
 
 Sprint Planning Meeting (reunión de planificación del sprint).
