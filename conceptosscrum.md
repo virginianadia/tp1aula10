@@ -7,8 +7,11 @@ las ceremonias fueron creadas para dar resultados y hay un momento adecuado para
 cuales son las ceremonias?
 ...agregar info...
 # sprint 3
-describa ceremonia 1
-...descripcion...
+
+Sprint Planning Meeting (reunión de planificación del sprint).
+
+Se produ al iniciar cada sprint y tiene por  objetivo decidir que se va a realizar en el sprint. 
+
 # sprint 4
 describa ceremonia 2
 ...descripcion...
