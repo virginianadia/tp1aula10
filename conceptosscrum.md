@@ -53,7 +53,10 @@ Es la suma de todos los ítems  Product Backlog  completados durante un sprint  
 
 # sprint 9
 cuales son sus funciones?
-...agregar info...
+
+**Organizar detalladamente lo necesario para que se cumplan los objetivos solicitados en las fechas pautadas.**
+
+
 # sprint 10
 concepto de roles
 ...aqui agregar info de roles
