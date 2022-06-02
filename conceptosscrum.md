@@ -41,7 +41,7 @@ debe mejorar para la próxima iteración. De ninguna manera se centra en lo que 
 ...descripcion
 # sprint 7
 que son los artefactos? Los artefactos Scrum representan trabajo o valor y contribuyen a generar transparencia, dado que pueden ser inspeccionados y adaptados.
-...agregar info...
+
 # sprint 8
 cuales son los artefactos?
 ##Product Backlog 
