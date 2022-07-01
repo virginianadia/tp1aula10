@@ -52,9 +52,9 @@ Es la suma de el Objetivo del Sprint, los elementos del Product Backlog elegidos
 Es la suma de todos los ítems  Product Backlog  completados durante un sprint  y el valor de los incrementos de todos los Sprints pasados.
 
 # sprint 9
-cuales son sus funciones?
 
-**Organizar detalladamente lo necesario para que se cumplan los objetivos solicitados en las fechas pautadas.**
+
+
 
 
 # sprint 10
