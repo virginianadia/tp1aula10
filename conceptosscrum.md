@@ -1,4 +1,4 @@
-# tp1aula10
+ # tp1aula10
 # sprint1
 que son las ceremonias ? 
 **las ceremonias de scrum son ensenciales , son practicas que definen a la metodologia scrum , sin ellas el equipo no podria agilizarse de ninguna manera, estas ceremonias facilitan los metodos de comunicacion, algo que beneficia a cualquier proyecto.
@@ -53,10 +53,41 @@ Es la suma de todos los ítems  Product Backlog  completados durante un sprint  
 
 # sprint 9
 cuales son sus funciones?
+##Pila de producto _(Product Backlog)_
+US 1 -----> US 2 ------> US 3 --------> US 4 
+Formulario Login: _Usuarios deben registrarse_.
+Barra de Buscador: _Filtrar busquedas_.
+Pagina de Inicio: _Recorre facilmente la pagina de Inicio_.
+Footer: _Informacion sobre politicas del sitio_.
+
+FEED-BACK
+
+##Pila de Sprint _(Sprint backlog)_
+US 1 ------> US 2 ------>
+Sprint Backlog: _Iniciar proyecto, buscando las mejores ideas para el desarrollo e implementando la metolodogia del scrum_.
+Responsabilidades: _Crear el documento Form IEEE 830_.
+Calendario: _Reunion, dividir y redactar cada una_.
+
+FEED-BACK
+
+##Incremento _(Increment)_
+US 1 -------> US 2 ---------> US (SPRINT ANTERIOR)
 
 **Organizar detalladamente lo necesario para que se cumplan los objetivos solicitados en las fechas pautadas.**
 
 
 # sprint 10
 concepto de roles
-...aqui agregar info de roles
+
+##PRODUCT OWNER
+
+Es _responsable_ de definir y priorizar _temas y objetivos_ con criterios de aceptacion.
+
+##SCRUM TEAM O EQUIPO
+
+Los estudiantes idenftifican y hacen el _como_.
+
+##SCRUM MASTER
+
+Integrante del grupo, _no lider_; les ayuda a pensar en todos los detalles y conseguir un mejor resultado.
+
