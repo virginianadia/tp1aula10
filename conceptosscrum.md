@@ -52,6 +52,7 @@ Es la suma de el Objetivo del Sprint, los elementos del Product Backlog elegidos
 Es la suma de todos los ítems  Product Backlog  completados durante un sprint  y el valor de los incrementos de todos los Sprints pasados.
 
 # sprint 9
+<<<<<<< HEAD
 cuales son sus funciones?
 ##Pila de producto _(Product Backlog)_
 US 1 -----> US 2 ------> US 3 --------> US 4 
@@ -72,8 +73,11 @@ FEED-BACK
 
 ##Incremento _(Increment)_
 US 1 -------> US 2 ---------> US (SPRINT ANTERIOR)
+=======
+>>>>>>> c88be6280dd5dff317c70b471a36993042663523
 
-**Organizar detalladamente lo necesario para que se cumplan los objetivos solicitados en las fechas pautadas.**
+
+
 
 
 # sprint 10
